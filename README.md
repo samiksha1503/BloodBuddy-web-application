@@ -1,6 +1,7 @@
 
 # BloodBuddy Blood Donation Website 🅰️💉
 BloodBuddy is a blood donation website designed to connect donors with recipients and facilitate the blood donation process efficiently.
+
 ![Screenshot 2024-06-11 121034](https://github.com/samiksha1503/BloodBuddy-web-application/assets/131444629/f14039ee-14eb-4249-8b54-86dfabd9ca9b)
 
 ## 🚀 Features
@@ -8,6 +9,8 @@ BloodBuddy is a blood donation website designed to connect donors with recipient
 - **Homepage:** Provides information about blood donation, its importance, and how individuals can contribute.
 - **Donation Page:** Allows users to register for blood donation, providing necessary details such as blood type, contact information, and availability.
 - **Database Integration:** Utilizes MySQL database to store donor information securely.
+
+## Demo: https://luxury-squirrel-948b21.netlify.app
 
 ## 🛠️ Technologies Used
 
